@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/commonclipse/!svn/ver/77/trunk/commonclipse/src/main/net/sf/commonclipse
+END
+CompareToGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/commonclipse/!svn/ver/77/trunk/commonclipse/src/main/net/sf/commonclipse/CompareToGenerator.java
+END
+ToStringGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/commonclipse/!svn/ver/77/trunk/commonclipse/src/main/net/sf/commonclipse/ToStringGenerator.java
+END
+EqualsGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/commonclipse/!svn/ver/77/trunk/commonclipse/src/main/net/sf/commonclipse/EqualsGenerator.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/commonclipse/!svn/ver/70/trunk/commonclipse/src/main/net/sf/commonclipse/messages.properties
+END
+CCPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/commonclipse/!svn/ver/77/trunk/commonclipse/src/main/net/sf/commonclipse/CCPlugin.java
+END
+HashcodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/commonclipse/!svn/ver/77/trunk/commonclipse/src/main/net/sf/commonclipse/HashcodeGenerator.java
+END
+CCPluginPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/commonclipse/!svn/ver/77/trunk/commonclipse/src/main/net/sf/commonclipse/CCPluginPreferences.java
+END
+Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/commonclipse/!svn/ver/77/trunk/commonclipse/src/main/net/sf/commonclipse/Generator.java
+END
+CCMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/commonclipse/!svn/ver/77/trunk/commonclipse/src/main/net/sf/commonclipse/CCMessages.java
+END
+messages_IT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/commonclipse/!svn/ver/70/trunk/commonclipse/src/main/net/sf/commonclipse/messages_IT.properties
+END

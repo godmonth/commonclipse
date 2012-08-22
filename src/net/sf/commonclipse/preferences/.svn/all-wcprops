@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/commonclipse/!svn/ver/77/trunk/commonclipse/src/main/net/sf/commonclipse/preferences
+END
+CCPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/commonclipse/!svn/ver/65/trunk/commonclipse/src/main/net/sf/commonclipse/preferences/CCPreferencePage.java
+END
+CCPreferenceInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/commonclipse/!svn/ver/37/trunk/commonclipse/src/main/net/sf/commonclipse/preferences/CCPreferenceInitializer.java
+END
+SpacerFieldEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/commonclipse/!svn/ver/37/trunk/commonclipse/src/main/net/sf/commonclipse/preferences/SpacerFieldEditor.java
+END
+TabbedFieldEditorPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/commonclipse/!svn/ver/77/trunk/commonclipse/src/main/net/sf/commonclipse/preferences/TabbedFieldEditorPreferencePage.java
+END
+ClassConstantFieldEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/commonclipse/!svn/ver/37/trunk/commonclipse/src/main/net/sf/commonclipse/preferences/ClassConstantFieldEditor.java
+END
+ComboFieldEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/commonclipse/!svn/ver/77/trunk/commonclipse/src/main/net/sf/commonclipse/preferences/ComboFieldEditor.java
+END
+LabelFieldEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/commonclipse/!svn/ver/37/trunk/commonclipse/src/main/net/sf/commonclipse/preferences/LabelFieldEditor.java
+END
+AddRemoveListFieldEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/commonclipse/!svn/ver/77/trunk/commonclipse/src/main/net/sf/commonclipse/preferences/AddRemoveListFieldEditor.java
+END
